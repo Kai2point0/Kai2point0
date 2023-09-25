@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kai2point0
+- 👀 I’m interested in Web, App, and Game Development
+- 🌱 I’m currently learning CSS and JS
+- 📫 How to reach me: Discord-Kai2.0
